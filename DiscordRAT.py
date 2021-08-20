@@ -14,7 +14,7 @@ from ctypes import *
 import asyncio
 import discord
 from discord import utils
-token = '' #Enter your token here
+token = 'ODc3ODY2NTkxMjYwNDA5ODc2.YR42-Q.V4cq_s3Me_lQ9A5P2cxybrPthWI' #Enter your token here
 global appdata
 appdata = os.getenv('APPDATA')
 client = discord.Client()
